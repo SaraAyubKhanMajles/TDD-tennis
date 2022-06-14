@@ -35,5 +35,5 @@ If you score 40 you win, but if theres a tie there are exceptions:
 
 
 
-
+wik
 
